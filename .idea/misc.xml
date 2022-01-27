@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/prati/AndroidStudioProjects/BirthdayApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27760416666666665" />
         <entry key="..\:/Users/prati/AndroidStudioProjects/BirthdayApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/prati/AndroidStudioProjects/BirthdayApp/app/src/main/res/layout/activity_birthday_greeting.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/prati/AndroidStudioProjects/BirthdayApp/app/src/main/res/layout/activity_greeting.xml" value="0.26145833333333335" />
         <entry key="..\:/Users/prati/AndroidStudioProjects/BirthdayApp/app/src/main/res/layout/activity_main.xml" value="0.26145833333333335" />
       </map>
     </option>
